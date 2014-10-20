@@ -22,7 +22,7 @@ DEFINE VARIABLE vroute AS CHARACTER
   "Email", "E" INITIAL "P".
 DEF STREAM emailit.
 
-def var sendmail as character.
+def var sendmail as character. /*just a note*/
 
 
 FORM 
